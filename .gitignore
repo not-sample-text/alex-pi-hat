@@ -1,0 +1,9 @@
+//KiCad Backup Files
+*.bak
+*.dru.bak
+*.kicad_pro.bak
+*.kicad_sch.bak
+*.kicad_pcb.bak
+*.net.bak
+fp-info-cache
+*-backups/

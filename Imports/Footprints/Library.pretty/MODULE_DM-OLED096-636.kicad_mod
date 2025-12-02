@@ -1,0 +1,439 @@
+(footprint "MODULE_DM-OLED096-636"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -9.525 -13.97 0)
+		(layer "F.SilkS")
+		(uuid "f402449d-2675-4eae-ac2e-44d0ca5f7da4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "DM-OLED096-636"
+		(at 0.635 13.97 0)
+		(layer "F.Fab")
+		(uuid "468b6ad3-745d-432d-89a9-02134cc5182c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3e034e7b-3f80-47a4-aa5b-c8a04a408737")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1cf90072-0ac7-417f-bf57-371b88f5d578")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MF" "Display Module"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "02148ccb-d571-4c60-8509-0bae12e3c9cc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MAXIMUM_PACKAGE_HEIGHT" "11.3 mm"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ec8a11da-4041-4b57-af5e-ac92b04d8993")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" "Package"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2dce0987-4179-4b3e-b38a-e8c029f6a7af")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ebd33605-4d77-45df-a053-e887bf8d52f1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Check_prices" "https://www.snapeda.com/parts/DM-OLED096-636/Display+Module/view-part/?ref=eda"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "eb3acfa2-557a-4c97-a0b6-7fe236c8d721")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "STANDARD" "Manufacturer Recommendations"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6d7e1ead-b481-4174-8910-1c202271197c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PARTREV" "2018-09-10"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "58eee8fb-2d89-43bf-95aa-b8bd3e60b7d6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SnapEDA_Link" "https://www.snapeda.com/parts/DM-OLED096-636/Display+Module/view-part/?ref=snap"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "40e14791-3fc0-4c14-b220-cae2f1fa2984")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MP" "DM-OLED096-636"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a2f95625-0a30-44f1-a0e8-172497217e48")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description_1" "0.96” 128 X 64 MONOCHROME GRAPHIC OLED DISPLAY MODULE - I2C"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "34645545-8430-440c-833a-e44dede7b43b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Availability" "Not in stock"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "99fe1ac3-8fb9-46fe-bc12-80314c18275a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MANUFACTURER" "Displaymodule"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "35cfe330-aecc-4b2d-b08c-1776b0f86521")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -13 -13)
+		(end 13 -13)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "176a5826-2668-468c-9607-afd1641579e1")
+	)
+	(fp_line
+		(start -13 13)
+		(end -13 -13)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9d0c4fc8-14ea-4ebb-ab8d-ec9ab8a37d53")
+	)
+	(fp_line
+		(start -7 11)
+		(end -7 13)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a4160778-1c8a-489f-9a5b-3382094bc829")
+	)
+	(fp_line
+		(start -7 13)
+		(end -13 13)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "00b5d830-343c-4067-9eb2-14ccb5e632ed")
+	)
+	(fp_line
+		(start 7 11)
+		(end -7 11)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "565cb722-91e3-44d3-8811-c073719dc2e3")
+	)
+	(fp_line
+		(start 7 13)
+		(end 7 11)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9a99e6f5-fc11-4713-b6c9-8dea3b644261")
+	)
+	(fp_line
+		(start 13 -13)
+		(end 13 13)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "77845d7a-b209-4ec3-b048-f07c8edbccaf")
+	)
+	(fp_line
+		(start 13 13)
+		(end 7 13)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4ffc462e-57ec-4f38-ad4c-c52231a06f35")
+	)
+	(fp_circle
+		(center -4 -13.5)
+		(end -3.9 -13.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "f9229c51-7de4-4275-a925-e1053cb72887")
+	)
+	(fp_line
+		(start -13 -13)
+		(end 13 -13)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7bc8c3fd-2cfd-41bd-9966-dabb3edbf605")
+	)
+	(fp_line
+		(start -13 13)
+		(end -13 -13)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "496b7223-0b86-4721-b8bf-47be133b7d27")
+	)
+	(fp_line
+		(start -7 11)
+		(end 7 11)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8c74f755-d010-4245-8c91-58c2606630d4")
+	)
+	(fp_line
+		(start -7 13)
+		(end -13 13)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6e7139c5-337a-4136-94d5-45eb0ad0baaf")
+	)
+	(fp_line
+		(start -7 13)
+		(end -7 11)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c3a5ebb0-b8bd-48ca-a385-cdd04cb96b15")
+	)
+	(fp_line
+		(start 7 11)
+		(end 7 13)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6a70690c-5096-404d-b978-323fce6cce94")
+	)
+	(fp_line
+		(start 13 -13)
+		(end 13 13)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "bc62d5a6-7ad0-4200-a150-0c23d8614cc4")
+	)
+	(fp_line
+		(start 13 13)
+		(end 7 13)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ef75c8d5-4a77-4bf2-8669-95ba267fb0ca")
+	)
+	(fp_circle
+		(center -4 -13.5)
+		(end -3.9 -13.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "cdedab3e-9d80-4320-8c15-b2d53cfb939b")
+	)
+	(pad "1" thru_hole rect
+		(at -3.81 -11.5)
+		(size 1.508 1.508)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "a0493024-c828-4273-b80f-7b274bcd066c")
+	)
+	(pad "2" thru_hole circle
+		(at -1.27 -11.5)
+		(size 1.508 1.508)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "dbea1cbb-2fd8-4124-aa59-8b8756730640")
+	)
+	(pad "3" thru_hole circle
+		(at 1.27 -11.5)
+		(size 1.508 1.508)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "a24b79c3-8ab2-49de-967c-9a6080796900")
+	)
+	(pad "4" thru_hole circle
+		(at 3.81 -11.5)
+		(size 1.508 1.508)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "efe32d8e-5bbd-4170-84fc-a3d9a36aa709")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/Imports/3d/DM-OLED096-636.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
+)

@@ -1,0 +1,254 @@
+(footprint "SKQUAAA010"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "35dc2663-a01a-4f7e-8e10-43726aad0cd2")
+		(effects
+			(font
+				(size 0.787402 0.787402)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SKQUAAA010"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "f580a3de-45d6-45ae-a329-4e742c06251a")
+		(effects
+			(font
+				(size 0.787402 0.787402)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cf896a7d-e96c-4bd2-bf41-504619958dc0")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cec918d5-d10a-4db3-8d54-1e491dc7e759")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MF" "ALPS"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c450f0e9-96e8-4820-9111-2aaea5038ceb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description_1" "PCB Stick switch 4 directional"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5f594039-f686-454f-b0f0-7081aa32cddd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c291c658-a2dc-4bc7-a792-742b4744c726")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8dee6498-8bf4-4646-bcec-e9b40731a7f2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SnapEDA_Link" "https://www.snapeda.com/parts/SKQUAAA010/ALPS/view-part/?ref=snap"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f7d429da-b7b3-4d6f-84d8-d1d395c8f48b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MP" "SKQUAAA010"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "94d93ad7-1195-4849-9344-b12c1a0b6f00")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Availability" "In Stock"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2e8427e0-ffa3-47f9-b447-d301df7ab236")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Check_prices" "https://www.snapeda.com/parts/SKQUAAA010/ALPS/view-part/?ref=eda"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f1c0f3e3-39db-444c-93b1-240ccfe2f481")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start 0.15 -8.25)
+		(end 10.15 -8.25)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "041b1dbc-11c2-4a4e-a095-b8ed61b59a75")
+	)
+	(fp_line
+		(start 0.15 1.8)
+		(end 10.15 1.8)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1129bc18-f936-4c0d-97e4-ab2cfbb9579a")
+	)
+	(fp_text user "SKQUAAx010"
+		(at 5.80773 1.40187 0)
+		(layer "F.SilkS")
+		(uuid "380d5312-2c0e-4a63-a5e1-c814ae2fe517")
+		(effects
+			(font
+				(size 0.801063 0.801063)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at 0 -6.5)
+		(size 1.8 1.8)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "90bfc682-ba26-4cd1-ba32-892e68eb7d15")
+	)
+	(pad "2" thru_hole circle
+		(at 0 -2.8)
+		(size 1.508 1.508)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "53c20507-1134-4fd6-835d-b492b6c0cedd")
+	)
+	(pad "3" thru_hole circle
+		(at 0 0)
+		(size 1.8 1.8)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "58be7d3d-90b9-4d75-b35c-29edc070cb17")
+	)
+	(pad "4" thru_hole circle
+		(at 10.3 0)
+		(size 1.8 1.8)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "a62e3b02-13c6-4090-bc3a-37a35faba9dd")
+	)
+	(pad "5" thru_hole circle
+		(at 10.3 -2.8)
+		(size 1.508 1.508)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "cbf3f8a8-5266-4987-b995-06ff82cf55f7")
+	)
+	(pad "6" thru_hole circle
+		(at 10.3 -6.5)
+		(size 1.8 1.8)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "b683fee3-7f63-433d-99e1-b95d8a76dc82")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/Imports/3d/skquaaa010.stp"
+		(offset
+			(xyz 5 3.3 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
+)
